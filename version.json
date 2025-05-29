@@ -1,4 +1,4 @@
 {
-  "version": "7.3.0",
+  "version": "7.3.0" ,
   "notes": " ． Add a new connection\n ． Fix connection prompt\n ． Fix the log message\n"
 }
